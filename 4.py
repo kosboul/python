@@ -7,3 +7,6 @@
 a = "1"
 b = 2
 print(int(a) + b)
+
+
+# The integer function int() converts a string to an integer
