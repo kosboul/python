@@ -5,3 +5,6 @@
 letters = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"]
 
 print(letters[::2])
+
+
+# The complete syntax of list slicing is [start:end:step]
