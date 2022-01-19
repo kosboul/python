@@ -1,3 +1,3 @@
 a = ["1", 1, "1", 2]
 
-print(set(a))
+print(list(set(a)))
